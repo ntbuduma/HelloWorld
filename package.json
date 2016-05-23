@@ -1,0 +1,14 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "first project in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Nithin",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
